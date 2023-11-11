@@ -1,0 +1,5 @@
+.vscode/
+ros2_ws/*
+!ros2_ws/build.bash
+foxy/ros2_ws/*
+!foxy/ros2_ws/build.bash
