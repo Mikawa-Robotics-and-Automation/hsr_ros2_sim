@@ -1,0 +1,29 @@
+repositories:
+  hsrb_controllers:
+    type: git
+    url: https://github.com/Mikawa-Robotics-and-Automation/hsrb_controllers
+    version: humble
+  hsrb_description:
+    type: git
+    url: https://github.com/Mikawa-Robotics-and-Automation/hsrb_description
+    version: humble
+  hsrb_meshes:
+    type: git
+    url: https://github.com/Mikawa-Robotics-and-Automation/hsrb_meshes
+    version: humble
+  hsrb_drivers:
+    type: git
+    url: https://github.com/Mikawa-Robotics-and-Automation/hsrb_drivers
+    version: humble
+  hsrb_gazebo_bringup:
+    type: git
+    url: https://github.com/Mikawa-Robotics-and-Automation/hsrb_gazebo_bringup
+    version: humble
+  tmc_gazebo_plugins:
+    type: git
+    url: https://github.com/Mikawa-Robotics-and-Automation/tmc_gazebo_plugins
+    version: humble
+  tmc_control_msgs:
+    type: git
+    url: https://github.com/Mikawa-Robotics-and-Automation/tmc_control_msgs
+    version: humble

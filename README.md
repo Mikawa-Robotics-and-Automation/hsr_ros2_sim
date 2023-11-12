@@ -27,7 +27,7 @@ VS Codeで作業する場合拡張の「Dev Containers」を入れて「Attach t
 ### Clone & ビルド
 ```
 cd ros2_ws
-source build.bash
+source setup_build.bash
 ```
 
 ### シミュレーション立ち上げ
@@ -61,7 +61,7 @@ docker compose up
 ### Clone & ビルド
 ```
 cd ros2_ws
-source build.bash
+source setup_build.bash
 ```
 
 ### シミュレーション立ち上げ

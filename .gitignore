@@ -1,5 +1,9 @@
 .vscode/
 ros2_ws/*
-!ros2_ws/build.bash
+!ros2_ws/setup.bash
+!ros2_ws/hsr_sim_humble.repos
+!ros2_ws/setup_build.bash
 foxy/ros2_ws/*
-!foxy/ros2_ws/build.bash
+!foxy/ros2_ws/setup.bash
+!foxy/ros2_ws/hsr_sim_foxy.repos
+!foxy/ros2_ws/setup_build.bash

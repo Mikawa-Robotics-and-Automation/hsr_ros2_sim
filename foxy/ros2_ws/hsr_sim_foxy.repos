@@ -1,0 +1,33 @@
+repositories:
+  gazebo_ros2_control:
+    type: git
+    url: https://github.com/hsr-project/gazebo_ros2_control.git
+    version: foxy
+  hsrb_description:
+    type: git
+    url: https://github.com/hsr-project/hsrb_description.git
+    version: foxy
+  hsrb_meshes:
+    type: git
+    url: https://github.com/hsr-project/hsrb_meshes.git
+    version: foxy
+  hsrb_controllers:
+    type: git
+    url: https://github.com/hsr-project/hsrb_controllers.git
+    version: foxy
+  hsrb_drivers:
+    type: git
+    url: https://github.com/hsr-project/hsrb_drivers.git
+    version: foxy
+  hsrb_gazebo_bringup:
+    type: git
+    url: https://github.com/hsr-project/hsrb_gazebo_bringup.git
+    version: foxy
+  tmc_gazebo_plugins:
+    type: git
+    url: https://github.com/hsr-project/tmc_gazebo_plugins.git
+    version: foxy
+  tmc_control_msgs:
+    type: git
+    url: https://github.com/hsr-project/tmc_control_msgs.git
+    version: foxy
