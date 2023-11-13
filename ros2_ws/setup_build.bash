@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # clone
-mkdir src
+mkdir -p src
 vcs import src < hsr_sim_humble.repos
 
 # colcon build
